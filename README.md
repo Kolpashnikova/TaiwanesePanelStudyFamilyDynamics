@@ -1,4 +1,4 @@
-# 2007-2016 Taiwanese  Panel Study Family Dynamics (English Codebook)
+# 2007-2016 Taiwanese  Panel Study of Family Dynamics (English Codebook)
 coding procedures for creating English version of PSFD with a codebook
 
 This folder contains Stata .do files to create a 2007-2016 PSFD dataset containing English labels.
