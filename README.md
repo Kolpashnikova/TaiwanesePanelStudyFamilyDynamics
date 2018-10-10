@@ -6,14 +6,14 @@ As the base, I used the 2007 file. All other files are appended to 2007 PSFD.
 
 I also attached a .csv codebook which contains information about values of the resulting variables and the original variables from each cycle of PSFD. 
 
----------------------------------------------------------------------------------------
+| -------| ------------------| -----------------------------------------------------------
 |  obs:  |      34,062       |                   
 | vars:  |         205       |                  9 Oct 2018 22:16
 | size:  |  55,861,680       |                   
----------------------------------------------------------------------------------------
+| -------| ------------------| -----------------------------------------------------------
 |             | storage |  display |   value |
 |variable name|   type  |  format  |   label |     variable label
----------------------------------------------------------------------------------------
+| ---------------| ----------------------------------------------------------------------
 |id              |double  %12.0g                Questionnaire number
 |year            |double  %8.0g                 Survey year
 |edu             |double  %37.0g     a19        Respondent's education level
